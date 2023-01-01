@@ -1,0 +1,4 @@
+#Fri Dec 30 15:03:17 CET 2022
+base.0=/Users/annakamp/StudioProjects/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
